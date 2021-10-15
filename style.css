@@ -1,0 +1,47 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+.div_tag{
+    float: none;
+    background-color: rgb(0, 225, 255);
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.div_names{
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 221);
+}
+
+
+.ans{
+    font-size: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    
+}
+canvas{
+    border-radius: 20px;
+    border:solid 5px rgb(0, 0, 0);
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px red;
+    
+ }
